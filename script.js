@@ -78,9 +78,8 @@ if (userInput == 1){
     }
 
 } else {
-    alert {
-        gameOver4
-    }
+    alert(gameOver4)
+    
 }
 
     } else {
